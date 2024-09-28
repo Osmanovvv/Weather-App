@@ -94,6 +94,3 @@ form.onsubmit = async function (e) {
         showCard(weatherData);
     }  
 }
-
-url('../img/night/Clear.png')
-
